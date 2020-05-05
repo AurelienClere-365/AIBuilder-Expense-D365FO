@@ -22,6 +22,7 @@ DISCLAIMER :
 It's just a proof of concept, and don't use it (yet) in production environment. It's just a demonstration and you will need to change/improve based on the use case you want to achieve.
 
 Improvements :
+
 => Ask for a project in the input of the Flow (if you want to have a relationshipt between a project in FinOps and the expense of the end user)
 
 => Detect automatically the category of the expense (at this time I put hard coded TEST)
