@@ -6,10 +6,15 @@ Sample PowerAutomate flows in order to create automatically Expenses in Dynamics
 
 
 1/ You will need a Trial or license of AI Builder
+
 2/ Import also the Data Entity (IMPExpTransV2) in your Dynamics 365 FinOps tenant
+
 3/ Import first the childflow
+
 4/ Import the main flow AI Builder + change the URL of the last call at the end of the flow with the generated URL coming from the child flow before.
+
 5/ See if you have a worker assigned in your Systemuser account in Dynamics365 FinOps, as well as a manager with HR module with job positions hierarchies.
+
 6/ Test it with like the example of the expense attach in this github project.
 
 
