@@ -23,8 +23,13 @@ It's just a proof of concept, and don't use it (yet) in production environment. 
 
 Improvements :
 => Ask for a project in the input of the Flow (if you want to have a relationshipt between a project in FinOps and the expense of the end user)
+
 => Detect automatically the category of the expense (at this time I put hard coded TEST)
+
 => Attach the expense with DocuRef entity after uploading in your sharepoint repository.
+
 => Improve the delimiter for the Transaction Date and Total Amount + Currency based on your template of expense in your country.
+
+
 
 See the article on my blog for more details : https://www.powerazure365.com/blog-1/ai-builder-powerplatform-for-expense-management-in-dynamics-365-finance-and-operations
